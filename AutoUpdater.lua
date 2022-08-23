@@ -1,4 +1,4 @@
--- https://github.com/Herrtt/AimHot-v8
+-- https://github.com/punishvfx/FiestaWare-V1
 pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Herrtt/AimHot-v8/master/Main.lua", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/punishvfx/FiestaWare-V1/main/Main.lua", true))()
 end)
